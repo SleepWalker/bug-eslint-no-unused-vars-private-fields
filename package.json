@@ -1,0 +1,21 @@
+{
+  "name": "eslint-no-unused-vars-and-private-fields-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bug.js",
+  "scripts": {
+    "test": "eslint bug.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/plugin-proposal-class-properties": "^7.3.0",
+    "@babel/plugin-proposal-private-methods": "^7.3.2",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-flow": "^7.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.13.0"
+  }
+}
