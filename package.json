@@ -17,5 +17,8 @@
     "@babel/preset-flow": "^7.0.0",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.13.0"
+  },
+  "resolutions": {
+    "babel-eslint": "^10.0.1"
   }
 }
